@@ -115,7 +115,7 @@ Produtor e diretor com trabalhos em curta e longa metragem, documentário e cont
 
 **Google**
 
-[![Google Ads — IA de Alta Performance](https://img.shields.io/badge/Google_Ads-Anúncios_com_IA_(2026)-4285F4?style=flat&logo=google-ads&logoColor=white)](https://www.credential.net/profile/benhurreal/wallet)
+[![Google Ads — IA de Alta Performance](https://img.shields.io/badge/Google_Ads-Anúncios_com_IA-4285F4?style=flat&logo=google-ads&logoColor=white)](https://www.credential.net/profile/benhurreal/wallet)
 
 **IBM SkillsBuild**
 
