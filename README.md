@@ -113,9 +113,19 @@ Produtor e diretor com trabalhos em curta e longa metragem, documentário e cont
 
 ## Certificações
 
-[![Google Skillshop](https://img.shields.io/badge/Google_Ads_Certified-4285F4?style=flat&logo=google&logoColor=white)](https://skillshop.accredible.com/profile/e3275a36-7478-4c7b-bffd-30266f723233)
-[![Credly](https://img.shields.io/badge/Ver_todos_os_badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ben-real/badges)
-[![Credential.net](https://img.shields.io/badge/Credential_Wallet-00B4D8?style=flat&logo=academia&logoColor=white)](https://www.credential.net/profile/benhurreal/wallet)
+**Google**
+
+[![Google Ads — IA de Alta Performance](https://img.shields.io/badge/Google_Ads-Anúncios_com_IA_(2026)-4285F4?style=flat&logo=google-ads&logoColor=white)](https://www.credential.net/profile/benhurreal/wallet)
+
+**IBM SkillsBuild**
+
+[![Agentic AI](https://img.shields.io/badge/IBM-Make_Agentic_AI_Work_for_You-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![AI Fundamentals](https://img.shields.io/badge/IBM-AI_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Literacy](https://img.shields.io/badge/IBM-Data_Literacy-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Project Management](https://img.shields.io/badge/IBM-Project_Management_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Lifelong Learning](https://img.shields.io/badge/IBM-Lifelong_Professional_Skills-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+
+[![Ver todos os badges →](https://img.shields.io/badge/Credly-Ver_todos_os_badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 
 ---
 
