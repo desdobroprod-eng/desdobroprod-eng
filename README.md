@@ -117,15 +117,23 @@ Produtor e diretor com trabalhos em curta e longa metragem, documentário e cont
 
 [![Google Ads — IA de Alta Performance](https://img.shields.io/badge/Google_Ads-Anúncios_com_IA-4285F4?style=flat&logo=google-ads&logoColor=white)](https://www.credential.net/profile/benhurreal/wallet)
 
-**IBM SkillsBuild**
+**IBM SkillsBuild (2026)**
 
+[![Generative AI Essentials](https://img.shields.io/badge/IBM-Generative_AI_Essentials:_Using_LLMs_to_Work_with_Data-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 [![Agentic AI](https://img.shields.io/badge/IBM-Make_Agentic_AI_Work_for_You-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
-[![AI Fundamentals](https://img.shields.io/badge/IBM-AI_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![AI Fundamentals](https://img.shields.io/badge/IBM-AI_Fundamentals:_Foundations_for_Understanding_AI-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Visualization](https://img.shields.io/badge/IBM-Data_Visualization_and_Presentation-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Statistics](https://img.shields.io/badge/IBM-Introduction_to_Inferential_and_Descriptive_Statistics-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![UX Design](https://img.shields.io/badge/IBM-User_Experience_Design_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Classification](https://img.shields.io/badge/IBM-Data_Classification-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Collection](https://img.shields.io/badge/IBM-Data_Collection_and_Analysis-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Preparation](https://img.shields.io/badge/IBM-Data_Preparation_for_Analysis-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Data Usability](https://img.shields.io/badge/IBM-Data_Usability_for_Organizations-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 [![Data Literacy](https://img.shields.io/badge/IBM-Data_Literacy-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 [![Project Management](https://img.shields.io/badge/IBM-Project_Management_Fundamentals-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 [![Lifelong Learning](https://img.shields.io/badge/IBM-Lifelong_Professional_Skills-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 
-[![Ver todos os badges →](https://img.shields.io/badge/Credly-Ver_todos_os_badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ben-real/badges)
+[![Ver todos os badges →](https://img.shields.io/badge/Credly-Ver_todos_os_badges_(28+)-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ben-real/badges)
 
 ---
 
