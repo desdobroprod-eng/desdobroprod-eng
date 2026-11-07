@@ -117,14 +117,6 @@ Estratégia e execução de tráfego pago para equipamentos de teste elétrico d
 
 ---
 
-### ⚖️ Nexus Juris — Automação PJe
-Sistema de automação jurídica para extração e injeção de jurisprudências no PJe (Portal de Justiça Eletrônico). Integra Playwright, Google Sheets e IA para análise de processos.
-
-`Node.js` `Playwright` `Google Sheets API` `Gemini`
-
-→ [github.com/desdobroprod-eng/nexus-juris](https://github.com/desdobroprod-eng/nexus-juris)
-
----
 
 ## Audiovisual
 
