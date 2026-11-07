@@ -76,6 +76,15 @@ Acredito que a IA mais poderosa não substitui equipes — ela **multiplica** o 
 
 ## Projetos em Destaque
 
+### ⚖️ Nexus Juris: instalador do escritório de IA (novo, público)
+Um arquivo que você entrega ao seu agente de código (Claude Code, Codex, Antigravity, OpenCode, Cursor) para montar, no próprio computador, um escritório de agentes de IA sobre o Hermes Agent: coordenador, mascaramento LGPD local, especialistas por área do Direito, auditoria cruzada e painel. Uso interno gratuito.
+
+`Hermes Agent` `Python` `LGPD` `Multiagente` `Claude Code` `Codex`
+
+→ [github.com/desdobroprod-eng/nexus-juris-agente-juridico](https://github.com/desdobroprod-eng/nexus-juris-agente-juridico) · [como funciona](https://10dobroprod.com.br/materiais/nexus-juris/)
+
+---
+
 ### 🤖 OpenSquad — Multi-Agent Orchestration Framework
 Framework de orquestração de agentes de IA em squads. Cada squad é um time de agentes especializados que colaboram, passam tarefas via handoff e operam com memória de longo prazo.
 
